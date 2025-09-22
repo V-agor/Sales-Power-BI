@@ -33,7 +33,7 @@ This repository contains a **Power BI dashboard** built as part of a guided proj
 
 ## 🗂 Dataset  
 
-- **Source:**   
+- **Source:** https://github.com/V-agor/Sales-Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx  
 - **Size:** [e.g., 10,000 rows / 20 columns]  
 - **Key Fields:** Date, SalesAmount, Category, Region, CustomerID  
 
